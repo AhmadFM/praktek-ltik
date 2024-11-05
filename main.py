@@ -1,1 +1,5 @@
 print("Hello, World!")
+print("HElllow, Worllds")
+print("Apapun itu")
+print(1+1)
+print("LATIHAN BRANCH")
